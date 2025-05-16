@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
+# macOS system files
+.DS_Store
+
+# VSCode settings folder
+.vscode/
+
+# Dataset folders (if you want to avoid uploading datasets)
+Training/
+Testing/
+=======
 # C extensions
 *.so
 
@@ -172,3 +183,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+>>>>>>> cd2b4752736826fb54644c05e59014295023d416
